@@ -1,0 +1,23 @@
+
+
+
+.square{
+	width: 30%;
+	background: red;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
+.container{
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+h1{
+	text-align: center;
+}
+
+span{
+	color: black;
+}
